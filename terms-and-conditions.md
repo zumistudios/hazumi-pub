@@ -18,7 +18,7 @@ An updated version of this Agreement will be effective immediately upon the post
 
 ## Acceptance of these terms
 
-You acknowledge that you have read this Agreement and agree to all its terms and conditions. By accessing and using the Mobile Application and Services you agree to be bound by this Agreement. If you do not agree to abide by the terms of this Agreement, you are not authorized to access or use the Mobile Application and Services. This terms and conditions policy was created with the help of https://www.websitepolicies.com/terms-and-conditions-generator
+You acknowledge that you have read this Agreement and agree to all its terms and conditions. By accessing and using the Mobile Application and Services you agree to be bound by this Agreement. If you do not agree to abide by the terms of this Agreement, you are not authorized to access or use the Mobile Application and Services.
 
 ## Contacting us
 
